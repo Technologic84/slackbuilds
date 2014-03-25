@@ -1,1 +1,1 @@
-Slackbuilds persos
+Slackbuilds perso
